@@ -1,22 +1,22 @@
 body {
-  background-color: #3549AC;
+  background-color: #FF8959;
 }
 
 .wrapper {
-  background-color: #3549AC;
+  background-color: #FF8959;
 }
 
 .header,
 .footer {
-  background-color: #FF8959;
+  background-color: #3549AC;
 }
 
 .sidebar {
-  background-color: #FCD47C;
+  background-color: #2B83C2;
 }
 
 .sidebar2 {
-  background-color: #2B83C2;
+  background-color: #FCD47C;
 }
 
 .content {
@@ -94,6 +94,10 @@ body {
 }
 
 .sidebar2 {
-  color: #444;
+  color: white;
+}
+
+.content {
+  height: 500px;
 }
 /*# sourceMappingURL=style.css.map */
