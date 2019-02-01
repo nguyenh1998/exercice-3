@@ -52,7 +52,7 @@ body {
       @media only screen and (min-width: 600px)   {
           .wrapper {
         grid-gap: 20px;
-              grid-template-columns: 480px auto 120px;
+              grid-template-columns: 40% auto 120px;
               grid-template-areas:
         "header  header  header"
               "sidebar content sidebar2"
